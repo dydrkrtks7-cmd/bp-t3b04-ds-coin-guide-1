@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zone-room-note.maphoshirts.space/sitemap.xml
+Sitemap: https://zone-room-note.maphoshirts.space/sitemap-pages.xml
